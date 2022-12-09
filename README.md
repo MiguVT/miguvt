@@ -23,4 +23,10 @@
   ### Operating systems I use
   ![linux](https://img.shields.io/badge/linux-030314?style=for-the-badge&logo=linux&logoColor=D6E7FF)
   ![win](https://img.shields.io/badge/win-030314?style=for-the-badge&logo=windows&logoColor=D6E7FF)
+  
+  ### Linux distributions I use
+  ![kali](https://img.shields.io/badge/Kali Linux-030314?style=for-the-badge&logo=kali linux&logoColor=D6E7FF)
+  ![arch](https://img.shields.io/badge/Arch Linux-030314?style=for-the-badge&logo=arch linux&logoColor=D6E7FF)
+  
+  Note: My main operating system is not linux, it is windows, however, I use it frequently for all cybersecurity issues.
 </div>
