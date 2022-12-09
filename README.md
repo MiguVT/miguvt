@@ -8,6 +8,7 @@
   [![npm](https://img.shields.io/badge/npm-030314?style=for-the-badge&logo=npm&logoColor=D6E7FF)](https://www.npmjs.com/)
   [![git](https://img.shields.io/badge/git-030314?style=for-the-badge&logo=git&logoColor=D6E7FF)](https://git-scm.com/)
   [![robloxstudio](https://img.shields.io/badge/Roblox%20Studio-030314?style=for-the-badge&logo=roblox&logoColor=D6E7FF)](https://www.roblox.com/create)
+  [![github](https://img.shields.io/badge/Github%20copilot-030314?style=for-the-badge&logo=github&logoColor=D6E7FF)](https://github.com/features/copilot)
   
   ### Programming languages
   [![python](https://img.shields.io/badge/python-030314?style=for-the-badge&logo=python&logoColor=D6E7FF)](https://www.python.org/)
