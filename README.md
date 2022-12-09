@@ -27,8 +27,8 @@
   
   ### Linux distributions I use
   
-  ![kali](https://img.shields.io/badge/Kali Linux-030314?style=for-the-badge&logo=kali linux&logoColor=D6E7FF)
-  ![arch](https://img.shields.io/badge/Arch Linux-030314?style=for-the-badge&logo=arch linux&logoColor=D6E7FF)
+  ![kali](https://img.shields.io/badge/Kali%20Linux-030314?style=for-the-badge&logo=kali%20linux&logoColor=D6E7FF)
+  ![arch](https://img.shields.io/badge/Arch%20Linux-030314?style=for-the-badge&logo=arch%20linux&logoColor=D6E7FF)
   
-  
+  Note: My main operating system is not linux, it is windows, however, I use it frequently for all cybersecurity issues.
 </div>
