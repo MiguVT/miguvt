@@ -25,7 +25,7 @@
 ---
 
 ### 🛠️ Tools I Use
-[![vscodium](https://img.shields.io/badge/VSCodium-1e1e2e?style=for-the-badge&logo=vscodium&logoColor=007ACC)](https://code.visualstudio.com/)
+[![vscodium](https://img.shields.io/badge/VSCodium-1e1e2e?style=for-the-badge&logo=vscodium&logoColor=007ACC)](https://vscodium.com/)
 [![npm](https://img.shields.io/badge/NPM-1e1e2e?style=for-the-badge&logo=npm&logoColor=CB3837)](https://www.npmjs.com/)
 [![git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![unity](https://img.shields.io/badge/Unity-1e1e2e?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/)
