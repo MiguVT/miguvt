@@ -81,6 +81,24 @@
 
 ---
 
+### 👋 Open Source Contributions
+- 🗣️ Chatterino: Chat client for https://twitch.tv, I made a new setting allowing custom extensions to interact with it based on the extension ID. [GitHub](https://github.com/Chatterino/chatterino2) [Web](https://chatterino.com)
+- 📃 LunarClient/ServerMappings: Public mapping of Minecraft server IPs <-> a pretty display name, I added my own Minecraft Server with the best formatting for Rich Presence. [GitHub](https://github.com/LunarClient/ServerMappings)
+- 💬 ChatControl: The most popular chat formatting & filtering plugin for Minecraft. I added Spanish translation. [Buy](https://builtbybit.com/resources/chatcontrol-format-filter-chat.18217/)
+- 👷 AxMinions: AxMinions is the most performant minion / robot plugin on the market. Fixed bugs related to dependencies and minion placement. [SpigotMC](https://www.spigotmc.org/resources/axminions-the-all-in-one-minion-plugin.114766/) [modrinth](https://modrinth.com/plugin/axminions) [BuiltByBit](https://builtbybit.com/resources/axminions-the-all-in-one-minion-plugin.38415/) [GitHub](https://github.com/Artillex-Studios/AxMinions)
+- 🖼️ Atlas-2023: The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023. I contributed by adding new artwork additions and patches. [GitHub](https://github.com/placeAtlas/atlas-2023) [Web](https://2023.place-atlas.stefanocoding.me/)
+
+### 👑 My current projects
+- 🎮 Migurinth: A privacy-friendly Modrinth fork with no telemetry and no ads. [GitHub](https://github.com/MiguVT/migurinth) [Web](https://migurinth.miguvt.com)
+- 🔨 ChatterinoWatch: Automatically reports the active Twitch channel to Chatterino for seamless integration. [GitHub](https://github.com/MiguVT/ChatterinoWatch) [Chrome Web Store](https://chromewebstore.google.com/detail/pnpdojeoploiomepdhikamokjmapkimh)
+
+### 🕸️ Discontinued projects
+- 🔥 MiguVerse: The first Minecraft server compatible with VR-Java-BedRock, discontinued because it required too much work, and I started studying for a degree in Microcomputer Systems and Networks. [Twitter](https://x.com/MiguVerse)
+- Check too much more on my [Repositories](https://github.com/MiguVT?tab=repositories)
+
+---
+
+
 *Thanks for visiting my profile! Feel free to explore my repositories and connect!* 🚀
 
 </div>
