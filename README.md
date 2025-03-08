@@ -62,7 +62,7 @@
 [![kali](https://img.shields.io/badge/Kali_Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 [![arch](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
 
-*Note: While I frequently use Linux for cybersecurity, Windows is my primary OS.*
+*Note: While I frequently use Linux for cybersecurity and servers, Windows is my primary OS.*
 
 ---
 
