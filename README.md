@@ -20,7 +20,7 @@
 ---
 
 ### 📊 My Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguvt&layout=compact&theme=radical)](https://github.com/miguvt)
+[![Top Languages](https://stats.miguvt.com/api/top-langs/?username=miguvt&layout=compact&theme=radical)](https://github.com/miguvt)
 
 ---
 
