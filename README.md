@@ -2,20 +2,21 @@
 
 # Welcome to My GitHub Profile! 
 
-<!-- ![Profile Banner]() --> <!-- Poner banner cuando pueda -->
-### 👋 Hi, I'm Yara
-**Developer | Cybersecurity Enthusiast | VTuber Content Creator**
+### 👋 Hi, I'm Yara  
+**🧑‍💻 Developer • 🔐 Cybersecurity Enthusiast • 🎥 VTuber Content Creator**
+
+</div>
 
 ---
 
 ### 📜 My Journey
-- 🕹️ **2014**: Started creating basic games in Unity at 8 years old, using YouTube tutorials to learn C# (or the language Unity used at the time).
+- 🕹️ **2014**: Started creating basic games in Unity at 8 years old, using YouTube tutorials to learn C# (or UnityScript at the time).
 - 🌐 **2015**: Became interested in web development and began creating simple websites using drag-and-drop tools.
-- 🛠️ **2016**: Learned CSS, JavaScript, and HTML at the age of 10, moving beyond simple tools to hand-coded web pages.
-- 🤖 **2017**: Discovered the power of JavaScript and its ecosystems, diving into creating Discord bots using the Discord.js library and learning Node.js.
-- 🎮 **2017**: Started creating simple games and scripts in LuaU for Roblox, sparking an interest in cybersecurity and anti-cheat systems.
-- 🔒 **2018**: Developed what I personally consider the **BEST ANTICHEAT for Roblox**, tested extensively by top scripters in the community who could not bypass it. [Check it out here.](https://www.roblox.com/es/games/6872624242/MiguAntiCheatTest)
-- 🎓 **2024-25**: Currently pursuing a vocational degree in **Microcomputer Systems and Networks** at 17, leveraging my knowledge to work on both private and public projects.
+- 🛠️ **2016**: Learned CSS, JavaScript, and HTML at 10 years old, moving beyond simple tools to hand-coded web pages.
+- 🤖 **2017**: Started building Discord bots with Discord.js and learned Node.js. Also made scripts in LuaU for Roblox.
+- 🎮 **2017**: Sparked interest in cybersecurity and anti-cheat systems through game scripting.
+- 🔒 **2018**: Developed what I consider the **BEST ANTICHEAT for Roblox**, tested extensively by top scripters. [Check it out.](https://www.roblox.com/es/games/6872624242/MiguAntiCheatTest)
+- 🎓 **2024–25**: Currently studying a vocational degree in **Microcomputer Systems and Networks**, working on both private and public tech projects.
 
 ---
 
@@ -58,11 +59,11 @@
 [![linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/en-us/windows)
 
-#### Linux Distributions I Use:
+#### Linux Distros I Use:
 [![kali](https://img.shields.io/badge/Kali_Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 [![arch](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
 
-*Note: While I frequently use Linux for cybersecurity and servers, Windows is my primary OS.*
+> 💡 *While I frequently use Linux for cybersecurity and servers, Windows is my primary OS.*
 
 ---
 
@@ -75,30 +76,34 @@
 
 ### 🌟 Fun Facts
 - 🎮 I play VR and enjoy building expressive avatars.
-- 🌐 Cybersecurity is not just a passion; it's a mindset.
-- 🚀 I strive to blend creativity and tech in all my projects.
-- 🎥 As a VTuber and content creator, I understand how platforms like Twitch and YouTube work, leveraging this knowledge to grow and connect.
+- 🔐 Cybersecurity is not just a passion; it's a mindset.
+- 🎥 As a VTuber and content creator, I understand how platforms like Twitch and YouTube work and use this knowledge to connect and grow.
 
 ---
 
 ### 👋 Open Source Contributions
-- 🗣️ Chatterino: Chat client for https://twitch.tv, I made a new setting allowing custom extensions to interact with it based on the extension ID. [GitHub](https://github.com/Chatterino/chatterino2) [Web](https://chatterino.com)
-- 📃 LunarClient/ServerMappings: Public mapping of Minecraft server IPs <-> a pretty display name, I added my own Minecraft Server with the best formatting for Rich Presence. [GitHub](https://github.com/LunarClient/ServerMappings)
-- 💬 ChatControl: The most popular chat formatting & filtering plugin for Minecraft. I added Spanish translation. [Buy](https://builtbybit.com/resources/chatcontrol-format-filter-chat.18217/)
-- 👷 AxMinions: AxMinions is the most performant minion / robot plugin on the market. Fixed bugs related to dependencies and minion placement. [SpigotMC](https://www.spigotmc.org/resources/axminions-the-all-in-one-minion-plugin.114766/) [modrinth](https://modrinth.com/plugin/axminions) [BuiltByBit](https://builtbybit.com/resources/axminions-the-all-in-one-minion-plugin.38415/) [GitHub](https://github.com/Artillex-Studios/AxMinions)
-- 🖼️ Atlas-2023: The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023. I contributed by adding new artwork additions and patches. [GitHub](https://github.com/placeAtlas/atlas-2023) [Web](https://2023.place-atlas.stefanocoding.me/)
-
-### 👑 My current projects
-- 🎮 Migurinth: A privacy-friendly Modrinth fork with no telemetry and no ads. [GitHub](https://github.com/MiguVT/migurinth) [Web](https://migurinth.miguvt.com)
-- 🔨 ChatterinoWatch: Automatically reports the active Twitch channel to Chatterino for seamless integration. [GitHub](https://github.com/MiguVT/ChatterinoWatch) [Chrome Web Store](https://chromewebstore.google.com/detail/pnpdojeoploiomepdhikamokjmapkimh)
-
-### 🕸️ Discontinued projects
-- 🔥 MiguVerse: The first Minecraft server compatible with VR-Java-BedRock, discontinued because it required too much work, and I started studying for a degree in Microcomputer Systems and Networks. [Twitter](https://x.com/MiguVerse)
-- Check too much more on my [Repositories](https://github.com/MiguVT?tab=repositories)
+- 🗣️ **Chatterino**: Added support for custom extension integration based on ID. [GitHub](https://github.com/Chatterino/chatterino2) | [Web](https://chatterino.com)
+- 📃 **LunarClient/ServerMappings**: Added my own Minecraft Server with optimized formatting. [GitHub](https://github.com/LunarClient/ServerMappings)
+- 💬 **ChatControl**: Spanish translation for a popular Minecraft plugin. [Buy](https://builtbybit.com/resources/chatcontrol-format-filter-chat.18217/)
+- 👷 **AxMinions**: Fixed bugs related to dependencies and placement. [GitHub](https://github.com/Artillex-Studios/AxMinions)
+- 🖼️ **Atlas-2023**: Added new artworks to the r/place project. [GitHub](https://github.com/placeAtlas/atlas-2023)
 
 ---
 
+### 👑 My Current Projects
+- 🎮 **Migurinth**: A privacy-friendly Modrinth fork (no telemetry/ads). [GitHub](https://github.com/MiguVT/migurinth) | [Web](https://migurinth.miguvt.com)
+- 🔨 **ChatterinoWatch**: Sends active Twitch channel to Chatterino. [GitHub](https://github.com/MiguVT/ChatterinoWatch) | [Chrome Extension](https://chromewebstore.google.com/detail/pnpdojeoploiomepdhikamokjmapkimh)
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect!* 🚀
+---
+
+### 🕸️ Discontinued Projects
+- 🔥 **MiguVerse**: The first VR-Java-Bedrock compatible Minecraft server. Stopped to focus on my tech degree. [Twitter](https://x.com/MiguVerse)
+> 💭 *You can find many more cool ideas and experiments in my [Repositories](https://github.com/MiguVT?tab=repositories)*
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile! Feel free to explore my repositories!* 🚀
 
 </div>
