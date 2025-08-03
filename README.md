@@ -51,6 +51,19 @@ Currently based in **Spain** 🇪🇸 and studying **Microcomputer Systems & Net
 [![Lua](https://img.shields.io/badge/Lua-1e1e2e?style=for-the-badge&logo=lua&logoColor=2C2D72)](https://www.lua.org/)
 
 <details>
+<summary>🌐 Frontend Technologies</summary>
+
+[![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-1e1e2e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-1e1e2e?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
+[![Webpack](https://img.shields.io/badge/Webpack-1e1e2e?style=for-the-badge&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e2e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+</details>
+
+<details>
 <summary>🔧 Additional Languages & Technologies</summary>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
@@ -61,9 +74,22 @@ Currently based in **Spain** 🇪🇸 and studying **Microcomputer Systems & Net
 [![Shell](https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 </details>
 
-> 💡 I know my way around frontend, but my true passion lies in backend development — where structure, logic, and performance matter most.
+<details>
+<summary>🎨 Creative & Design Tools</summary>
+
+[![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-1e1e2e?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)](https://www.adobe.com/products/premiere.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-1e1e2e?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)](https://www.adobe.com/products/photoshop.html)
+[![GIMP](https://img.shields.io/badge/GIMP-1e1e2e?style=for-the-badge&logo=gimp&logoColor=5C5543)](https://www.gimp.org/)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1e1e2e?style=for-the-badge&logo=davinci-resolve&logoColor=233A51)](https://www.blackmagicdesign.com/products/davinciresolve/)
+[![Blender](https://img.shields.io/badge/Blender-1e1e2e?style=for-the-badge&logo=blender&logoColor=F5792A)](https://www.blender.org/)
+</details>
+
+> 💡 I'm proficient with frontend technologies and modern build tools, but my true passion lies in backend development — where structure, logic, and performance matter most. While I can create polished user interfaces and work with the latest frontend frameworks, what really excites me is architecting robust server-side systems and optimizing data flows.
+
+> **Note:** I'm also skilled with creative tools for content creation, including video editing with Adobe Premiere Pro and DaVinci Resolve, and image editing with Photoshop and GIMP.
 
 ---
+
 
 ## 🏠 Self-Hosted Infrastructure
 
