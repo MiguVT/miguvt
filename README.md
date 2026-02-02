@@ -31,7 +31,7 @@ Currently based in **Spain** 🇪🇸 and studying **Microcomputer Systems & Net
 - **2017** · Built Discord bots in Node.js, explored LuaU for Roblox game scripting
 - **2018** · Created a powerful anti-cheat system for Roblox, used by top scripters  
   → [Check out MiguAntiCheat](https://www.roblox.com/es/games/6872624242/MiguAntiCheatTest)
-- **2024–25** · Currently studying **Microcomputer Systems & Networks**, building real-world projects
+- **2025–26** · Currently studying **Microcomputer Systems & Networks**, building real-world projects
 
 ---
 
