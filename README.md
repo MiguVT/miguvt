@@ -190,7 +190,7 @@ I believe in giving back to the community that has taught me so much:
 
 <div align="center">
   <img src="https://github-profile-svg.vercel.app/api/profile?username=miguvt&theme=onedark&rank=-C" alt="Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguVT&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" />
+  <img src="https://stats.miguvt.com/api/top-langs/?username=MiguVT&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" />
 </div>
 
 ---
