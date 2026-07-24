@@ -165,7 +165,7 @@ I believe in giving back to the community that has taught me so much:
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e2e?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://archlinux.org/)
 
-> ⚙️ *Windows for main desktop, Linux for cybersecurity & servers*
+> ⚙️ *CachyOS (Arch Linux) for Desktop, DietPI/Debian for servers*
 
 ---
 
